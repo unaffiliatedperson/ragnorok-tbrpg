@@ -1,0 +1,1 @@
+Ragnarök Text Based Role Playing Game is an attempt to bring back a fun installment of a dieing genre. This project is being developed in C++ will be released as a game engine and a fully fledged Rpg.
